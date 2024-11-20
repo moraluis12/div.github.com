@@ -1,0 +1,54 @@
+.helado{
+    width:600px;
+    height:500px;
+    background-color:green;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.helado1{
+    width:400px;
+    height:400px;
+    background-color:whitesmoke;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    top: 50%;
+    right: 50%;
+    transform: translate(50, -50%);
+}
+
+.helado2{
+    width:400px;
+    height:330px;
+    background-color: gold;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    color:blue;
+    font-size: 20px;
+}
+
+
+.helado3{
+    width:200px;
+    height:80px;
+    background-color:rgb(255, 51, 51);
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    color: aqua;
+}
